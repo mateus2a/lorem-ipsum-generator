@@ -1,11 +1,13 @@
+import React from 'react';
+import GenerateText from './components/GenerateText';
 import './App.css';
 
-function App() {
+const App = () => {
   return (
     <div className="App">
-      <p>App</p>
+      <GenerateText />
     </div>
   );
-}
+};
 
 export default App;

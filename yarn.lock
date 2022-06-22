@@ -8464,6 +8464,11 @@ uri-js@^4.2.2:
   dependencies:
     punycode "^2.1.0"
 
+use-lorem-ipsum@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/use-lorem-ipsum/-/use-lorem-ipsum-1.0.5.tgz#8d6a6e498810c5f33c4928ad53896eb59f6fc93a"
+  integrity sha512-QEZG4i77oPROJVXDwsSNDnFks55zoRRLak7erdliq64llkQ34czhShSTulTAqFukSa3Dtfz32G+YCzgVUUjjxg==
+
 util-deprecate@^1.0.1, util-deprecate@^1.0.2, util-deprecate@~1.0.1:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/util-deprecate/-/util-deprecate-1.0.2.tgz#450d4dc9fa70de732762fbd2d4a28981419a0ccf"
