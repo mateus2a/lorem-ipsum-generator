@@ -1,11 +1,12 @@
 import React from 'react';
-import GenerateText from './components/GenerateText';
+import Title from './components/Title';
+// import GenerateText from './components/GenerateText';
 import './App.css';
 
 const App = () => {
   return (
     <div className="App">
-      <GenerateText />
+      <Title />
     </div>
   );
 };
